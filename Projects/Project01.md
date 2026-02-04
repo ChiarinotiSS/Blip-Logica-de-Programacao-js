@@ -1,9 +1,8 @@
 # Classificador de Nível de Herói
 
-Este projeto foi desenvolvido como parte do Bootcamp da DIO em parceria com a Blip, com foco na prática de lógica de programação utilizando JavaScript.
+Este é o primeiro desafio de projeto do bootcamp, no qual foi desenvolvido um classificador de nível de herói utilizando JavaScript.
 
-O desafio consiste em criar um programa que armazene o nome e a quantidade de experiência (XP) de um herói e, a partir disso, utilize estruturas de decisão para classificar o herói em diferentes níveis.
-
+O programa armazena o nome e a quantidade de experiência (XP) de um herói e, a partir desses dados, utiliza estruturas de decisão para determinar e exibir o nível correspondente.
 ---
 
 ## No projeto, foi utilizado:
