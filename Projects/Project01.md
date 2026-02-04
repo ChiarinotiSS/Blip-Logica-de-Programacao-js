@@ -1,4 +1,4 @@
-# Classificador de Nível de Herói
+# Classificador de Nível de Herói⚔️
 
 Este é o primeiro desafio de projeto do bootcamp, no qual foi desenvolvido um classificador de nível de herói utilizando JavaScript.
 
